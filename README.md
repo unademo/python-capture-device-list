@@ -19,13 +19,13 @@
     
 2. Download the ```test.py``` to run & test the module **```device```**:
     ```
-    python python test.py
+    python test.py
     ```
     
     or 
 
     ```
-    python python3 test.py
+    python3 test.py
     ```   
    
 ## Blogs of original repo
