@@ -17,7 +17,12 @@
 ## How to Run 
 1. Download the wheel in the **[Release Page](https://github.com/unaplugin/python-capture-device-list/releases)**
     
-2. Download the ```test.py``` to run & test the module **```device```**:
+2. Pip install the wheel:
+    ```
+    pip install path/to/the/wheel.whl
+    ```
+   
+3. Download the ```test.py``` to run & test the module **```device```**:
     ```
     python test.py
     ```
