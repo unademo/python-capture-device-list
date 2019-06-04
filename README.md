@@ -7,8 +7,6 @@
 
 - Build the origin ones into wheels ( [Python3.5 Wheel](https://github.com/unaplugin/python-capture-device-list/releases/download/Release1.0/WindowsDevices-1.0-cp35-cp35m-win_amd64.whl)  |  [Python3.6 Wheel](https://github.com/unaplugin/python-capture-device-list/releases/download/Release1.0/WindowsDevices-1.0-cp36-cp36m-win_amd64.whl) ), since the origin repo could not build successfully on Anaconda Python.
 
-  
-
 ## Environment
 * **Native Python** or **Anaconda Python**
 
@@ -16,26 +14,20 @@
 
 * **OpenCV 3.3.0** (To ```cv2.VideoCapture``` the devices)
 
-  
-
 ## How to Run 
 1. Download the wheel in the **[Release Page](https://github.com/unaplugin/python-capture-device-list/releases)**
     
-3. Download the ```test.py``` to run & test the module **```device```**:
-
-    ```python
-python test.py
+2. Download the ```test.py``` to run & test the module **```device```**:
+    ```
+    python python test.py
     ```
     
     or 
 
-    ```python
-python3 test.py
     ```
-    
-    
-
-
+    python python3 test.py
+    ```   
+   
 ## Blogs of original repo
 [Listing Multiple Cameras for OpenCV-Python on Windows][1]
 
