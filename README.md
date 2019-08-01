@@ -7,7 +7,7 @@
 
 - Build the origin ones into wheels ( [Python3.5 Wheel](https://github.com/unaplugin/python-capture-device-list/releases/download/Release1.0/WindowsDevices-1.0-cp35-cp35m-win_amd64.whl)  |  [Python3.6 Wheel](https://github.com/unaplugin/python-capture-device-list/releases/download/Release1.0/WindowsDevices-1.0-cp36-cp36m-win_amd64.whl) ), since the origin repo could not build successfully on Anaconda Python.
 
-## Environment
+## Wheels Using Environment
 * **Native Python** or **Anaconda Python**
 
 * **Python environment**: 3.5 or 3.6
